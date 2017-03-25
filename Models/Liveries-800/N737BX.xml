@@ -3,10 +3,10 @@
 <PropertyList>
 <sim>
     <model>
-        <livery>                     
+        <livery>
             <name type="string">Boeing Company</name>
-            <texture>Liveries/N737BX.png</texture>            
-        </livery>        
+            <texture>Liveries-800/N737BX.png</texture>
+        </livery>
     </model>
 </sim>
 </PropertyList>
